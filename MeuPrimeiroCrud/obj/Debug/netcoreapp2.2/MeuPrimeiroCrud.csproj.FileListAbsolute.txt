@@ -1,0 +1,7 @@
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.csproj.AssemblyReference.cache
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.AssemblyInfoInputs.cache
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.AssemblyInfo.cs
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.csproj.CoreCompileInputs.cache
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.RazorAssemblyInfo.cache
+C:\Users\kakag\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\netcoreapp2.2\MeuPrimeiroCrud.RazorAssemblyInfo.cs
